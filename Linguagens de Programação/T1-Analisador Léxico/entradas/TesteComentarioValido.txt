@@ -1,0 +1,3 @@
+/* Este e um comentario de bloco valido */
+/* Este comentario de bloco nao tem terminacao
+Este nao e um comentario valido */
